@@ -24,7 +24,7 @@ def encode(password):
 def main():
     while True:
         print("Menu\n"
-              "-------------\n"
+              "--------------\n"
               "1. Encode\n"
               "2. Decode\n"
               "3. Quit")
